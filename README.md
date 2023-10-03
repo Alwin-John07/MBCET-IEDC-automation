@@ -1,2 +1,2 @@
 # MBCET IEDC automation
- A fun little project on automationg our IEDC lab
+ A fun little project on automating our IEDC lab
